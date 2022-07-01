@@ -1,0 +1,17 @@
+# ignore IDE default files
+.idea/
+
+# ignore node modules
+node_modules/
+
+# ignore package lock file
+package-lock.json
+
+# typescript distribution files
+dist/
+
+# environment variable
+#.env
+
+# practice scripts
+practice/
